@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "role": "admin",
+        "username": "admin_user_01",
+        "email": "admin@asionix.com",
+        "mobile": "9876543210",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "role": "guest",
+        "username": "guest_user_01",
+        "email": "guest@example.com",
+        "mobile": "1234567890",
+        "password": "password123"
+    }
+]
